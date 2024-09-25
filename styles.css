@@ -1,6 +1,12 @@
-body {
-  background-color: yellow;
-}
-h1 {
-  color: blue;
-}
+<style>
+    .document-option-yellow {
+        background-color: #ffdd00;
+        padding: 20px;
+        text-align: center;
+    }
+    .document-option-white {
+        background-color: white;
+        padding: 20px;
+        text-align: center;
+    }
+</style>
