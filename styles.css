@@ -1,11 +1,11 @@
 <style>
     .document-option-yellow {
-        background-color: magenta;
+        background-color: rgb(235, 57, 235);;
         padding: 20px;
         text-align: center;
     }
     .document-option-white {
-        background-color: black;
+        background-color: blue;
         padding: 20px;
         text-align: center;
     }
