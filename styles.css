@@ -1,12 +1,5 @@
-<style>
-    .document-option-yellow {
-        background-color: rgb(235, 57, 235);;
-        padding: 20px;
-        text-align: center;
-    }
-    .document-option-white {
-        background-color: blue;
-        padding: 20px;
-        text-align: center;
-    }
-</style>
+.small-inputs .form-control {
+    height: 25px !important;
+    padding: .25rem .5rem !important;
+    font-size: .875rem !important;
+}
