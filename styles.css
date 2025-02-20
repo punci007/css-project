@@ -1,17 +1,5 @@
-.small-input .form-group {
-    display: flex;
-    align-items: center;
-}
-
-.small-input label {
-    margin-right: 10px; /* A címke és a mező közötti távolság */
-    min-width: 100px; /* A címke szélessége */
-    text-align: left; /* Igazítás balra */
-}
-
-.small-input .form-control {
+.small-inputs .form-control {
     height: 25px !important;
     padding: .25rem .5rem !important;
     font-size: .875rem !important;
-    flex-grow: 1; /* A mező kitölti a maradék helyet */
 }
